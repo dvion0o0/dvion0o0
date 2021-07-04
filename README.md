@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Digvijay Ghosh(Dv)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻My portfolio link [dvion.epizy.com](dvion.epizy.com)
+- 👨‍💻My portfolio link [dvportfolio.netlify.app](dvportfolio.netlify.app)
 
 - 📫 How to reach me **digvijayghosh39@gmail.com**
 
